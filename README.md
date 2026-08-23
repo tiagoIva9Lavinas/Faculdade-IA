@@ -12,7 +12,7 @@ Repositório com os notebooks desenvolvidos durante a disciplina de Inteligênci
 ##  Links
 
 - [Notebook no Google Colab | 50 exerícios Python](https://colab.research.google.com/github/tiagoIva9Lavinas/Faculdade-IA/blob/main/Exerc%C3%ADcios_Python_Tiago_6B_Noturno.ipynb)
-- [Notebook no Google Colab | 80 exercícios DataScience]() 
+- [Notebook no Google Colab | 80 exercícios DataScience](https://colab.research.google.com/github/tiagoIva9Lavinas/Faculdade-IA/blob/main/Exerc%C3%ADcios_NumPy%2CSciPy%2CPandas%2CMatplotlib_Tiago_6B_Noturno.ipynb) 
 ##  Informações
 
 - **Aluno:** Tiago Ivanov Lavinas | 11241103126
